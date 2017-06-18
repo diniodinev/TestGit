@@ -1,1 +1,2 @@
-Add new line from the first branch;
+Add new line from the first branch
+Second branch add line.
